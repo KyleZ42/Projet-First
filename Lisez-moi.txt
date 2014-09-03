@@ -1,3 +1,3 @@
 Ce projet débute par une description
 
-voici une ligne édité directement sur Github
+voici une ligne, dénuée de sens, édité directement sur Github
