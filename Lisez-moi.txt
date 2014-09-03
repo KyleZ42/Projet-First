@@ -2,4 +2,4 @@ Ce projet débute par une description
 
 voici une ligne édité directement sur Github
 
-j'ajoute une ligne sur l'éditeur
+ligne ajouté en local
